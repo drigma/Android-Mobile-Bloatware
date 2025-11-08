@@ -476,7 +476,6 @@ com.android.virtualmachine.res
 com.android.vivo.tws.vivotws
 com.android.voicedialer
 com.android.voicemailomtp
-com.android.vpndialogs
 com.android.wallpaper
 com.android.wallpaper.holospiral
 com.android.wallpaper.livepicker
@@ -4060,3 +4059,4 @@ wb.goog.got.conquest
 zpub.res
 zte.com.cn.alarmclock
 zte.com.cn.filer
+
