@@ -1,6 +1,6 @@
 # Android-Mobile-Bloatware
 
-### ⚠️WARNING⚠️
+### ⚠️DISCLAIMER⚠️
 **I strongly advise you first of all to have everything saved on your phone because each phone reacts differently and therefore your phone can have a BOOTLOOP or the system can become UNSTABLE and therefore you will have to go through a FACTORY RESET from the recovery mode.**
 
 **Description :**
