@@ -2714,7 +2714,6 @@ com.samsung.android.knox.pushmanager
 com.samsung.android.knox.zt.framework
 com.samsung.android.liveeffectservice
 com.samsung.android.livestickers
-com.samsung.android.location
 com.samsung.android.lool
 com.samsung.android.mapsagent
 com.samsung.android.mateagent
@@ -3198,7 +3197,6 @@ com.sec.knox.switcher
 com.sec.knox.switchknox
 com.sec.knox.switchknoxI
 com.sec.knox.switchknoxII
-com.sec.location.nfwlocationprivacy
 com.sec.location.nsflp2
 com.sec.mldapchecker
 com.sec.modem.settings
@@ -4059,4 +4057,5 @@ wb.goog.got.conquest
 zpub.res
 zte.com.cn.alarmclock
 zte.com.cn.filer
+
 
