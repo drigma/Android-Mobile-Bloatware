@@ -601,6 +601,7 @@ com.att.tv.watchtv
 com.audible.application
 com.aura.jet.att
 com.aura.oobe.att
+com.aura.oobe.deutsche
 com.aura.oobe.kbdi
 com.aura.oobe.motorola
 com.aura.oobe.samsung
@@ -1001,6 +1002,7 @@ com.google.android.calculator
 com.google.android.calendar
 com.google.android.captiveportallogin
 com.google.android.carrierconfig
+com.google.android.carrierlocation
 com.google.android.carriersetup
 com.google.android.cellbroadcastreceiver
 com.google.android.cellbroadcastreceiver.overlay.miui
@@ -1047,7 +1049,6 @@ com.google.android.instantapps.supervisor
 com.google.android.katniss
 com.google.android.keep
 com.google.android.launcher
-com.google.android.location
 com.google.android.mainline.adservices
 com.google.android.mainline.telemetry
 com.google.android.markup
@@ -1155,6 +1156,7 @@ com.groupon
 com.gsma.rcs
 com.gsn.android.tripeaks
 com.hampusolsson.abstruct
+com.hancom.office.editor
 com.hancom.office.editor.hidden
 com.hancom.office.viewer
 com.handmark.expressweather
@@ -2148,7 +2150,6 @@ com.oneplus.calculator
 com.oneplus.camera
 com.oneplus.camera.service
 com.oneplus.card
-com.oneplus.carrierlocation
 com.oneplus.chargingpilar
 com.oneplus.commonoverlay.com.oneplus
 com.oneplus.communication.data
@@ -2540,6 +2541,7 @@ com.samsung.android.app.advsounddetector
 com.samsung.android.app.amcagent
 com.samsung.android.app.aodservice
 com.samsung.android.app.appsedge
+com.samsung.android.app.appupdater
 com.samsung.android.app.assistantmenu
 com.samsung.android.app.bixby.wakeup
 com.samsung.android.app.camera.sticker.facear.preload
@@ -2584,6 +2586,7 @@ com.samsung.android.app.readingglass
 com.samsung.android.app.reminder
 com.samsung.android.app.routines
 com.samsung.android.app.sbrowseredge
+com.samsung.android.app.scrollcapture
 com.samsung.android.app.selfmotionpanoramaviewer
 com.samsung.android.app.settings.bixby
 com.samsung.android.app.sharelive
@@ -2617,6 +2620,7 @@ com.samsung.android.arzone
 com.samsung.android.asksmanager
 com.samsung.android.audiomirroring
 com.samsung.android.authfw
+com.samsung.android.authservice
 com.samsung.android.aware.service
 com.samsung.android.bbc.bbcagent
 com.samsung.android.bbc.fileprovider
@@ -2752,6 +2756,8 @@ com.samsung.android.provider.shootingmodeprovider
 com.samsung.android.provider.stickerprovider
 com.samsung.android.providers.context
 com.samsung.android.providers.factory
+com.samsung.android.radiobasedlocation
+com.samsung.android.radiobasedlocation.manager
 com.samsung.android.rajaampat
 com.samsung.android.rampart
 com.samsung.android.rlc
@@ -2836,6 +2842,7 @@ com.samsung.android.timezone.autoupdate_N
 com.samsung.android.tncpage
 com.samsung.android.tripwidget
 com.samsung.android.tvplus
+com.samsung.android.tzdata.update
 com.samsung.android.tzdata.update_M
 com.samsung.android.ucs.agent.ese
 com.samsung.android.uds
@@ -2847,6 +2854,7 @@ com.samsung.android.vdc
 com.samsung.android.vdcservice
 com.samsung.android.velvet
 com.samsung.android.video
+com.samsung.android.videolist
 com.samsung.android.vision.model
 com.samsung.android.visionarapps
 com.samsung.android.visioncloudagent
@@ -3002,6 +3010,7 @@ com.samsung.systemui.bixby2
 com.samsung.systemui.hidenotch
 com.samsung.systemui.hidenotch.withoutcornerround
 com.samsung.tmovvm
+com.samsung.tmowfc.wfccontroller
 com.samsung.tmowfc.wfcpref
 com.samsung.ucs.agent.boot
 com.samsung.ucs.agent.ese
@@ -3035,12 +3044,15 @@ com.sec.android.app.billing
 com.sec.android.app.bluetoothagent
 com.sec.android.app.bluetoothtest
 com.sec.android.app.camera
+com.sec.android.app.camera.plb
 com.sec.android.app.chromecustomizations
+com.sec.android.app.clipvideo
 com.sec.android.app.clockpackage
 com.sec.android.app.desktoplauncher
 com.sec.android.app.dexonpc
 com.sec.android.app.dictionary
 com.sec.android.app.easyMover.Agent
+com.sec.android.app.easylauncher
 com.sec.android.app.easyonehand
 com.sec.android.app.easysetup
 com.sec.android.app.ewidgetatt
@@ -3054,6 +3066,7 @@ com.sec.android.app.kidshome
 com.sec.android.app.magnifier
 com.sec.android.app.minimode.res
 com.sec.android.app.mt
+com.sec.android.app.music
 com.sec.android.app.myfiles
 com.sec.android.app.ocr
 com.sec.android.app.parser
@@ -3197,6 +3210,7 @@ com.sec.knox.switcher
 com.sec.knox.switchknox
 com.sec.knox.switchknoxI
 com.sec.knox.switchknoxII
+com.sec.location.nfwlocationprivacy
 com.sec.location.nsflp2
 com.sec.mldapchecker
 com.sec.modem.settings
@@ -3487,6 +3501,7 @@ com.telenav.app.android.cingular
 com.telenav.app.android.scout_us
 com.telephony.service
 com.telus.checkup
+com.telus.featuredapps
 com.telus.myaccount
 com.tencent.android.location
 com.tencent.ngjp
@@ -4035,6 +4050,7 @@ ru.yandex.disk
 ru.yandex.searchplugin
 ru.yandex.yandexmaps
 screnmirroring.com
+service.odtcfactory.sec.com.odtcfactoryservice
 sg.gov.mnd.OneService
 tech.palm.id
 telekom.hu.android.mobilvasarlas
@@ -4057,5 +4073,3 @@ wb.goog.got.conquest
 zpub.res
 zte.com.cn.alarmclock
 zte.com.cn.filer
-
-
